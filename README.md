@@ -10,6 +10,15 @@ The full report is available in [`report_BC_pinales.pdf`](report_BC_pinales.pdf)
 
 British Columbia's forests cover 57% of the province and span a wide range of bioclimatic zones — from coastal rainforest to boreal and subalpine. Increasing temperatures and more extreme weather are expected to substantially reshape tree species distributions. This project models those changes for all extant Pinales species with sufficient observational data in BC.
 
+## Example outputs
+# Change in species richness
+<img width="1770" height="1698" alt="species richness change" src="https://github.com/user-attachments/assets/5208e20d-d36c-4feb-8a7c-f47f350465c0" />
+# projected future distribution of Douglas fir (Pseudotsuga menziesii)
+<img width="1626" height="849" alt="Pseudotsuga menziesii" src="https://github.com/user-attachments/assets/171e5ed9-1706-43f8-87c3-357b108e45c5" />
+# projected future distribution of Whitebark pine (Pinus albicaulis)
+<img width="1626" height="849" alt="Pinus albicaulis" src="https://github.com/user-attachments/assets/7ce7e501-6cef-46e5-af38-acecbb09e8c5" />
+
+
 ## Methods
 
 Ensemble species distribution models were built with the **biomod2** package using three algorithms per species:
