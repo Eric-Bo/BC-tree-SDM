@@ -40,6 +40,14 @@ projections_245.rds
 projections_370.rds
 projections_585.rds
 
+# Outputs
+*.jpg
+*.png
+
+# Project Files
+literature/
+*.txt
+
 # PDFs — ignore all except the report
 *.pdf
 !report_BC_pinales.pdf
