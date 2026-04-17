@@ -1,0 +1,19 @@
+Nadelbäume (Pinales) in BC mit Occurence Daten aus GBIF
+
+Fragestellungen:
+Klimawandel gut sichtbar wegen langer Nord-Südachse?
+Wie gut sind citizen science Daten im Vergleich zu offiziellen Daten?
+	Vergleich der Datensätze und daraus entstehenden Modellen
+
+Vorgehen:
+1. SDM mit Daten aus iNaturalist mit folgenden Einschränkungen: Jahr >= 2000; N_obs > 100
+2. damit auch zukünftige Klimaszenarien vergleichen
+3. offizielle Datensätze verwenden, dafür auch älter Daten bis vor 2000
+4. Vergleich zwischen i Naturalist und offiziellen Datensätzen
+
+zusatz:
+look into pseudo absence strategies of biomod
+
+
+Literatur:
+https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658(2006)87[2773:PEOCCO]2.0.CO;2?casa_token=_sKRbYEjuUoAAAAA%3Ac1b5cwubahmYZPcmW_UCdRBC4lS4kPsSokLsTFtjVIPE83mGXuSPJ8ExB4oeKOpmpiX7HGuL9ymm0TSk
